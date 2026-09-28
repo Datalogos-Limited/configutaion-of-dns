@@ -1,0 +1,80 @@
+	
+github-pages-challenge-Datalogos-Limited
+
+a
+datalogos.co.uk
+185.199.108.153
+600 seconds
+
+
+
+
+
+ns
+@
+ns07.domaincontrol.com.
+1 Hour
+
+
+
+
+
+
+
+ns
+@
+ns08.domaincontrol.com.
+1 Hour
+
+
+
+
+
+
+
+cname
+www
+datalogos.github.io.
+1 Hour
+
+
+
+
+
+cname
+_domainconnect
+_domainconnect.ss.domaincontrol.com.
+1 Hour
+
+
+
+
+
+soa
+@
+Primary nameserver: ns07.domaincontrol.com.
+1 Hour
+
+
+
+
+
+
+
+txt
+_dmarc
+v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;
+1 Hour
+
+
+
+
+
+aaaa
+datalogos.co.uk
+2606:50c0:8000::153
+600 seconds
+
+
+
+
